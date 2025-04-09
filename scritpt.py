@@ -1,2 +1,2 @@
 def greet():
-    print("Hello from Git Flow!")
+    print("Hello from Git Flow")
